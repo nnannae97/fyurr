@@ -1,0 +1,1 @@
+My codes are all in the src folder, i divided a bit of every section.
